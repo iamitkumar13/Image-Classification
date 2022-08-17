@@ -1,4 +1,4 @@
-# Image-Classification
+# Object-Classification
 
 We implemented four popular ML methods, including Random Forest, KNN, Decision Tree, Naive Bayes classifier and ANN
 to discuss how to apply picture classification in machine learning. Deep learning(CNN) is preferred for image classification jobs 
